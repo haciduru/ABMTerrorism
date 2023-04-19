@@ -1,4 +1,6 @@
 
+# This file is old. Don't use this.
+
 setwd('/Users/hd/OneDrive - SUNY Brockport/Documents/ProjectBox/ABM Terrorism')
 n_agents = 1000
 p_mil = .02
