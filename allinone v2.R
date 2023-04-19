@@ -1,4 +1,6 @@
 
+# This is the final version. We used this for the manuscript.
+
 rm(list = ls())
 library(tictoc)
 
