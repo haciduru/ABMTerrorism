@@ -1,4 +1,6 @@
 
+# This file is old. Don't use this.
+
 rm(list=ls())
 library(igraph)
 library(pryr)
